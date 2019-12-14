@@ -1,4 +1,6 @@
-# getting-started
+# Instant Search Demo
+
+This is a sample project with Instant Search functionality using Algolia and Parcel.
 
 _This project was generated with [create-instantsearch-app](https://github.com/algolia/create-instantsearch-app) by [Algolia](https://algolia.com)._
 
@@ -10,11 +12,3 @@ To run this project locally, install the dependencies and run the local server:
 npm install
 npm start
 ```
-
-Alternatively, you may use [Yarn](https://http://yarnpkg.com/):
-
-```sh
-yarn
-yarn start
-```
-"# cbc-search" 
